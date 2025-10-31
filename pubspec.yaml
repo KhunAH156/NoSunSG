@@ -1,0 +1,36 @@
+name: no_sun_sg
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "web/icons/NoSunSGLogo.png"
+  image_path: "web/icons/NoSunSGLogo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "web/icons/NoSunSGLogo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - web/icons/NoSunSGLogo.png
