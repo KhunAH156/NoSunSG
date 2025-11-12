@@ -1,4 +1,4 @@
-#Ever sat on the wrong side of the Singapore MRT and got roasted by the sun the whole ride? ☀️🚆
+# Ever sat on the wrong side of the Singapore MRT and got roasted by the sun the whole ride? ☀️🚆
 
 Well…I did and it gave me the idea for my latest side project.
 
